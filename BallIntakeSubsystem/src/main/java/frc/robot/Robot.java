@@ -82,7 +82,7 @@ public class Robot extends TimedRobot {
   }
 
   public void shootBall() {
-    //psuedo code
+    //pseudo code
     ballCount = 0;
   }
 }
